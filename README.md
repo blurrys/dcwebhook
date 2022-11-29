@@ -1,2 +1,5 @@
-# dcwebhook
-A node.js module to easily interact with Discord API
+# DCWEBHOOK
+
+-
+
+## >Easily interact with Discord API ✨
