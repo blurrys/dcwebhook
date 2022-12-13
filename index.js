@@ -32,3 +32,5 @@ class Webhook {
     }
   }
 }
+
+module.exports = new Webhook();
